@@ -4,7 +4,7 @@ title: "Tourismus Verkehr"
 
 
 ::: {#fig-gr}
-![](assets/CaterinaSchmidlin.png)
+![](assets/CaterinaSchmidlin.png){width=90%}
 
 Caterina Schmiedlin 
 

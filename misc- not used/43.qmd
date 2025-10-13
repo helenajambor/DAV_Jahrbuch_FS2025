@@ -1,0 +1,15 @@
+---
+title: "Lieferdaten"
+---
+
+
+::: {#fig-gr}
+![](assets/SophieMarthaler.png)
+
+Sophie Marthaler - Skizze
+
+:::
+
+
+
+

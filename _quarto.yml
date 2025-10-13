@@ -6,7 +6,7 @@ project:
     - downloads/**
 
 book:
-  title: "DAV_Jahrbuch_FS2025"
+  title: "DAV Kursbuch - Frühsemester 2025"
   author: "Helena Jambor"
   date: "10/06/2025"
   chapters:
@@ -31,7 +31,6 @@ book:
     - 18.qmd
     - 19.qmd
     - 20.qmd
-    - 21.qmd
     - 22.qmd
     - 23.qmd
     - 24.qmd
@@ -42,9 +41,6 @@ book:
     - 29.qmd
     - 30.qmd
     - 31.qmd
-    - 32.qmd
-    - 33.qmd
-    - 34.qmd
     - 35.qmd
     - summary.qmd
 
@@ -53,7 +49,13 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
+    toc: true
+    number-sections: true
+
   pdf:
-    documentclass: scrreprt
+    fig-dpi: 150        # or 120; default is 300
+    pdf-engine: xelatex
+    toc: true
+
 
 editor: source

@@ -4,7 +4,7 @@ title: "Häusliche Gewalt in der Schweiz"
 
 
 ::: {#fig-gr}
-![](assets/DanielaSpuehler.png)
+![](assets/DanielaSpuehler.png){width=80%}
 
 Daniela Spühler
 

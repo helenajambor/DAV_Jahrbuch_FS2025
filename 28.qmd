@@ -4,8 +4,8 @@ title: "PKWs in Zug"
 
 
 ::: {#fig-gr}
-![](assets/RaphaelWeiss.png)
-![](assets/Raphael_2.png)
+![](assets/RaphaelWeiss.png){width=80%}
+![](assets/Raphael_2.png){width=80%}
 
 
 

@@ -3,7 +3,7 @@ title: "Wer arbeitet zuhause?"
 ---
 
 ::: {#fig-gr}
-![](assets/LauraRamosHubel.png)
+![](assets/LauraRamosHubel.png){width=80%}
 
 Laura Ramos Hubel
 

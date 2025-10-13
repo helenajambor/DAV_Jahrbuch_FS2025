@@ -3,7 +3,7 @@ title: "Kredite in Ch"
 ---
 
 ::: {#fig-gr}
-![](assets/AlessiaHof_KreditwesenBanken.png)
+![](assets/AlessiaHof_KreditwesenBanken.png){width=80%}
 
 Alessia Hof (Sketch Version)
 

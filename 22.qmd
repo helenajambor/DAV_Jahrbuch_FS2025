@@ -4,7 +4,7 @@ title: "Wer macht Freiwilligenarbeit?"
 
 
 ::: {#fig-gr}
-![](assets/Karin_Hugentobler.png)
+![](assets/Karin_Hugentobler.png){width=80%}
 
 Karin Hugentobler
 
