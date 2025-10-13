@@ -1,0 +1,13 @@
+---
+title: "Tatütata"
+---
+
+
+::: {#fig-gr}
+![](assets/AminaSalihovic.png)
+
+Amina Salihovic
+
+:::
+
+

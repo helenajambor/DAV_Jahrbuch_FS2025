@@ -1,0 +1,11 @@
+---
+title: "Der Wolf in Graubünden"
+---
+
+::: {#fig-gr}
+![](assets/DiegoSturzenegger-FlorinGrimm.png)
+
+Florin Grimm & Diego Sturzenegger
+
+:::
+

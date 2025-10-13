@@ -1,0 +1,11 @@
+---
+title: "Kredite in Ch"
+---
+
+::: {#fig-gr}
+![](assets/AlessiaHof_KreditwesenBanken.png)
+
+Alessia Hof (Sketch Version)
+
+:::
+

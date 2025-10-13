@@ -1,0 +1,11 @@
+---
+title: "Globale Katastrophen"
+---
+
+::: {#fig-gr}
+![](assets/RobinCrauser.png)
+
+Robin Crauser
+
+:::
+

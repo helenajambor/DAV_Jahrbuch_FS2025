@@ -1,0 +1,12 @@
+---
+title: "PKWs der Schweiz"
+---
+
+::: {#fig-gr}
+![](assets/RalphWildhauber.png)
+
+Ralph Wildhauber
+
+:::
+
+

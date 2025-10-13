@@ -1,0 +1,13 @@
+---
+title: "Einwanderung der Quagga-Muschel"
+---
+
+
+::: {#fig-gr}
+![](assets/SinaJoller.png)
+
+Sina Joller
+
+:::
+
+

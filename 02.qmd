@@ -1,0 +1,12 @@
+---
+title: "Zürich bellt"
+---
+
+
+::: {#fig-gr}
+![](assets/Sandra Roth.png)
+
+Sandra Roth
+
+:::
+

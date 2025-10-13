@@ -1,0 +1,12 @@
+---
+title: "Hotelbuchungen - wer storniert?"
+---
+
+::: {#fig-gr}
+![](assets/AndiSchudel.png)
+
+Andi Schudel
+
+:::
+
+

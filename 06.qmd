@@ -1,0 +1,11 @@
+---
+title: "Skisporteln in Graubünden - Selbstbeobachtung "
+---
+
+::: {#fig-gr}
+![](assets/JanWeidner.png)
+
+Jan Weidner
+
+:::
+

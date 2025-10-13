@@ -1,0 +1,13 @@
+---
+title: "Musik ab!"
+---
+
+
+::: {#fig-gr}
+![](assets/ValerieNesensohn-SimoneKühne.png)
+
+Valeria Nesesohn & Simone Kühne
+
+:::
+
+

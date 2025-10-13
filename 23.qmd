@@ -1,0 +1,12 @@
+---
+title: "Wer arbeitet zuhause?"
+---
+
+::: {#fig-gr}
+![](assets/LauraRamosHubel.png)
+
+Laura Ramos Hubel
+
+:::
+
+

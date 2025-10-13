@@ -1,0 +1,12 @@
+---
+title: "Wie impft der Ösi?"
+---
+
+::: {#fig-gr}
+![](assets/VictoriaFischer.png)
+
+Victoria Fischer
+
+:::
+
+

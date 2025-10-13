@@ -1,0 +1,10 @@
+---
+title: "Wie gebildet ist Europa?"
+---
+
+::: {#fig-gr}
+![](assets/Yuka Geeler.png)
+
+Yuka Geeler
+
+:::

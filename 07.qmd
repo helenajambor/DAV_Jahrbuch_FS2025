@@ -1,0 +1,12 @@
+---
+title: "Gesundheit - global gesehen"
+---
+
+
+::: {#fig-gr}
+![](assets/JanWaelti.png)
+
+Jan Wälti
+
+:::
+

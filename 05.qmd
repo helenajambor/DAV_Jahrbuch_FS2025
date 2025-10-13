@@ -1,0 +1,10 @@
+---
+title: "Walfang im Wandel der Zeit"
+---
+
+::: {#fig-gr}
+![](assets/KatrinAltermatt_NaomiStieger.png)
+
+Katrin Andermatt und Naomi Stieger
+
+:::

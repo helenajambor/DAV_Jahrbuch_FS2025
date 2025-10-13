@@ -1,0 +1,13 @@
+---
+title: "Korallensterben"
+---
+
+
+::: {#fig-gr}
+![](assets/FranziskaKnobelspiess.png)
+
+Franziska Knobelspiess
+
+:::
+
+

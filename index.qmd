@@ -1,0 +1,13 @@
+# Einleitung {.unnumbered}
+
+Jahrbuch „Datenvisualisierung 2025"
+
+Das Jahrbuch *Datenvisualisierung Frühsemester 2025* dokumentiert die kreativen und analytischen Leistungen der Studierenden des gleichnamigen Kurses an der FHGR. Es versammelt ausgewählte studentische Arbeiten – darunter Konzepte für interaktive Dashboards, Infografiken und konzeptionelle Visualisierungen – die im Laufe des Semesters im Rahmen individueller und gemeinsamer Projekte entstanden sind. Ziel des Jahrbuchs ist es, einen Einblick in die Vielfalt der Themen, Ansätze und Werkzeuge zu geben, mit denen die Studierenden aktuelle Fragestellungen durch visuelle Mittel erforscht und vermittelt haben.
+
+Datenvisualisierung ist heute weit mehr als nur ein technisches Handwerk: Sie ist eine Sprache, die zwischen Wissenschaft, Gesellschaft und Öffentlichkeit vermittelt. In einer Welt, die von Daten durchdrungen ist, trägt sie dazu bei, Komplexität verständlich zu machen, Zusammenhänge sichtbar zu machen und Entscheidungsprozesse zu unterstützen. Der Kurs „Datenvisualisierung“ verfolgt daher das Ziel, Studierende nicht nur in der Handhabung moderner Analysetools zu schulen, sondern auch ihr kritisches und ästhetisches Urteilsvermögen zu stärken – um Daten nicht bloß darzustellen, sondern zu erzählen, zu hinterfragen und zu kontextualisieren.
+
+Das Jahrbuch spiegelt diese Haltung wider: Jede Arbeit erzählt eine Geschichte, die sich an der Schnittstelle von Information, Gestaltung und gesellschaftlicher Relevanz bewegt. Einige Visualisierungen befassen sich mit globalen Themen wie Klimawandel, sozialer Ungleichheit oder Gesundheitsdaten; andere untersuchen persönliche Datensätze, kulturelle Phänomene oder wissenschaftliche Ergebnisse. Gemeinsam zeigen sie, wie aus abstrakten Zahlen und Tabellen sinnstiftende, nachvollziehbare und oft auch überraschende Bilder werden können.
+
+Von den insgesamt 43 Teilnehmerinnen und Teilnehmern des Kurses haben 29 zugestimmt, dass ihre Projekte in diesem Jahrbuch veröffentlicht werden. Ihr Einverständnis ermöglicht es, diese Vielfalt öffentlich sichtbar zu machen und zugleich zu zeigen, wie engagiert, experimentell und verantwortungsbewusst die nächste Generation von Datenvisualisierer*innen arbeitet.
+
+Das Jahrbuch versteht sich damit nicht nur als Sammlung studentischer Arbeiten, sondern auch als Momentaufnahme einer wachsenden Disziplin – einer Disziplin, die hilft, die Datenwelt von heute zu verstehen und die Welt von morgen zu gestalten.

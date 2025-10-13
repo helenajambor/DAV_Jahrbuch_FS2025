@@ -1,0 +1,16 @@
+---
+title: "PKWs in Zug"
+---
+
+
+::: {#fig-gr}
+![](assets/RaphaelWeiss.png)
+![](assets/Raphael_2.png)
+
+
+
+Raphael Weiss - Daten und Visualisierung sind als Artikel in der Zuger Zeitung erschienen.
+
+:::
+
+
