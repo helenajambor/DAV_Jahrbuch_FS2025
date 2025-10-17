@@ -1,0 +1,25 @@
+---
+title: "UX-Designer in den USA - wer verdient was, wo?"
+---
+
+
+::: {#fig-panel .figure}
+![](assets/Andrea_1.png){width=100% fig-alt="Top panel"}{width=80%}
+
+::: columns
+::: column
+![](assets/Andrea_2.png){width=50% fig-alt="Bottom-left"}
+:::
+::: column
+![](assets/Andrea_3.png){width=50% fig-alt="Bottom-right"}
+:::
+:::
+
+
+Andrea Costa
+
+:::
+
+
+
+

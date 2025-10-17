@@ -1,0 +1,13 @@
+---
+title: "Unfälle in der Schweiz"
+---
+
+::: {#fig-gr}
+![](assets/FabioBeck.png)
+
+Fabio Beck
+
+:::
+
+
+
