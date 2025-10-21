@@ -6,7 +6,7 @@ project:
     - downloads/**
 
 book:
-  title: "DAV Kursbuch - Frühsemester 2025"
+  title: "Datenvisualisierung Frühsemester 2025 - Kursbuch"
   author: "Helena Jambor"
   date: "10/06/2025"
   chapters:
