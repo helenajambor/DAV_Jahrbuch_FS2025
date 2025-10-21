@@ -8,5 +8,35 @@
     "crumbs": [
       "Einleitung"
     ]
+  },
+  {
+    "objectID": "01.html",
+    "href": "01.html",
+    "title": "1  Der Wolf in Graubünden",
+    "section": "",
+    "text": "Figure 1.1: Florin Grimm & Diego Sturzenegger",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Der Wolf in Graubünden</span>"
+    ]
+  },
+  {
+    "objectID": "02.html",
+    "href": "02.html",
+    "title": "2  Zürich bellt",
+    "section": "",
+    "text": "Figure 2.1: Sandra Roth",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Zürich bellt</span>"
+    ]
+  },
+  {
+    "objectID": "03.html",
+    "href": "03.html",
+    "title": "3  Prost, Schweiz",
+    "section": "",
+    "text": "Figure 3.1: Jacqueline Brügger",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Prost, Schweiz</span>"
+    ]
   }
 ]
